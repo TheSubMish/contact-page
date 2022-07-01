@@ -1,0 +1,31 @@
+#container{
+    position: absolute;
+    right: 70vh;
+    top: 15vh;
+}
+
+input{
+    width: 500px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+#msg{
+    height: 400px;
+}
+
+#sub{
+    width: 270px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 30px;
+    cursor: pointer;
+    background-color:azure;
+}
+
+#sub:hover{
+    color: white;
+    background-color: blue;
+}
